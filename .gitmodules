@@ -1,0 +1,3 @@
+[submodule "WechatLib"]
+	path = WechatLib
+	url = https://github.com/webfrogs/WechatLib.git
